@@ -15,6 +15,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://portfolio-topaz-zeta-a7ct5meaba.vercel.app"),
   title: "がろろ | Web Developer Portfolio",
   description:
     "がろろのポートフォリオサイト。Next.js / TypeScript / React を使ったWeb開発の実績を紹介します。",
